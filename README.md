@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá, eu sou o Miguel 👋</h1> <h3 align="center">Desenvolvedor de Software Full-Stack</h3> <p align="center"> Construindo aplicações web do front-end ao back-end, com foco em React, Node.js e boas práticas de arquitetura. </p> 
+<h1 align="center">Olá, eu sou o Miguel 👋</h1> <h3>Desenvolvedor de Software Full-Stack</h3> <p> Construindo aplicações web do front-end ao back-end, com foco em React, Node.js e boas práticas de arquitetura. </p> 
 
 
 <h3 🎓 Formação em Front-end, Back-end e Ciência da Computação pela Trybe, cursando Desenvolvimento Full-Stack pela Estácio<br>💻 Gosto de transformar problemas reais em aplicações funcionais, do banco de dados à interface<br>🌱 Sempre aprendendo algo novo — comunicação, empatia e busca por conhecimento são parte de como trabalho em equipe
@@ -26,7 +26,6 @@ Ferramentas
 <p> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" /> <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" /> </p>
 
 # 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=rmiguel139&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rmiguel139&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---

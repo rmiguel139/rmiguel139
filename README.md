@@ -1,4 +1,6 @@
-🎓 Formação em Front-end, Back-end e Ciência da Computação pela Trybe, cursando Desenvolvimento Full-Stack pela Estácio<br>💻 Gosto de transformar problemas reais em aplicações funcionais, do banco de dados à interface<br>🌱 Sempre aprendendo algo novo — comunicação, empatia e busca por conhecimento são parte de como trabalho em equipe
+<h1 align="center">Olá, eu sou o Miguel 👋</h1>
+
+<h3 🎓 Formação em Front-end, Back-end e Ciência da Computação pela Trybe, cursando Desenvolvimento Full-Stack pela Estácio<br>💻 Gosto de transformar problemas reais em aplicações funcionais, do banco de dados à interface<br>🌱 Sempre aprendendo algo novo — comunicação, empatia e busca por conhecimento são parte de como trabalho em equipe
 
 
 ## 🌐 Socials:

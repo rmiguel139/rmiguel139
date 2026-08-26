@@ -1,6 +1,5 @@
-<h1 align="center">Olá, eu sou o Miguel 👋</h1>
 
-<h1 align="center">Olá, eu sou o Miguel 👋</h1> <h3 align="center">Desenvolvedor de Software Full-Stack</h3> <p align="center"> Construindo aplicações web do front-end ao back-end, com foco em React, Node.js e boas práticas de arquitetura. </p> <p align="center"> <a href="https://www.linkedin.com/in/miguel-menezes-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:migmenezes.mm2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
+<h1 align="center">Olá, eu sou o Miguel 👋</h1> <h3 align="center">Desenvolvedor de Software Full-Stack</h3> <p align="center"> Construindo aplicações web do front-end ao back-end, com foco em React, Node.js e boas práticas de arquitetura. </p> 
 
 
 <h3 🎓 Formação em Front-end, Back-end e Ciência da Computação pela Trybe, cursando Desenvolvimento Full-Stack pela Estácio<br>💻 Gosto de transformar problemas reais em aplicações funcionais, do banco de dados à interface<br>🌱 Sempre aprendendo algo novo — comunicação, empatia e busca por conhecimento são parte de como trabalho em equipe

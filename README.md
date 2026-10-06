@@ -18,7 +18,7 @@
 | Projeto | Descrição |
 |---|---|
 | 🍔 [**delivery-app**](https://github.com/rmiguel139/delivery-app) | App de delivery full-stack (React + Node.js): login, cadastro, pedidos e acompanhamento de status, com API REST própria e MySQL |
-|🧪  [**Teste técnico QA Júnior – Verzel**](https://github.com/rmiguel139/Teste-tecnico-QA-Junior-Verzel)| Testes manuais e exploratórios, cenários em Gherkin, documentação de bugs e automação de testes com Playwright|
+|🧪  [**Teste técnico QA Júnior**](https://github.com/rmiguel139/Teste-tecnico-QA-Junior-Verzel)| Testes manuais e exploratórios, cenários em Gherkin, documentação de bugs e automação de testes com Playwright|
 | 📝 [**blogs-api**](https://github.com/rmiguel139/blogs-api) | API REST com CRUD completo para criação, atualização e remoção de posts |
 | 🛒 [**shopping-cart**](https://github.com/rmiguel139/shopping-cart) | Simulação de carrinho de compras, com lógica de adição, remoção e cálculo de itens |
 | 🎬 [**project-movie-cards**](https://github.com/rmiguel139/project-movie-cards) | Aplicação para exibição de cards de filmes de forma dinâmica |
